@@ -4,5 +4,5 @@
 
 
 Click Link :
-**[Car Price Prediction](https://github.com/BlessingNehohwa/car-price-prediction-project/blob/main/Car%20Price%20Prediction%20Analysis.ipynb
+**[AB Testing in python](https://github.com/BlessingNehohwa/AB-Testing-Project/blob/main/1%20AB%20Testing%20project.ipynb
 ).**
